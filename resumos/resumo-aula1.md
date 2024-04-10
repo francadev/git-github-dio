@@ -1,3 +1,1 @@
-a
-
-sdfasdasdasdasd
+Primeiro reset aprendido: git reset --soft hash-aqui
